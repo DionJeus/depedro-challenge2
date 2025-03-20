@@ -66,16 +66,16 @@ ul {
     margin-top: 23px;
 }
 
-.li-flex {
+.check {
     display: flex;
     flex-direction: row;
 }
 
-.li-flex img {
+.check img {
     margin-top: -10px;
 }
 
-.li-flex p {
+.check p {
     margin-left: 16px;
     margin-bottom: 10px;
     font-size: 1rem;
@@ -175,7 +175,7 @@ ul {
     font-weight: 700;
 }
 
-.success-btn button {
+.successbtn button {
     text-align: center;
     background-color: var(--dark-slate-grey);
     width: 327px;
@@ -188,7 +188,7 @@ ul {
     border-radius: 8px;
 }
 
-.success-btn button:hover {
+.successbtn button:hover {
     background-image: linear-gradient(45deg, #FF527A, #FD6937);
     border: none;
 }
@@ -257,7 +257,7 @@ ul {
         font-size: 3.4375rem;
     }
 
-    .success-btn button {
+    .successbtn button {
         width: 100%;
     }
 
